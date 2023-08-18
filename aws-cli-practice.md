@@ -19,7 +19,7 @@ sudo ./aws/install
 
 # use AWS CLI on Ubuntu machine to create a S3 bucket
 ```bash
-aws s3 mb mfatih-bucket
+aws s3 mb s3://mfatih-bucket
 ```
 
 - make_bucket failed: s3://mfatih-bucket Unable to locate credentials
